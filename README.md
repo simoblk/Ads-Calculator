@@ -49,13 +49,8 @@ Follow the interactive prompts:
 
 
 📂 Generated Files:
-ads_performance.png
-ads_report.xlsx
-ads_report.pdf
+ads_performance.png, ads_report.xlsx, ads_report.pdf
 
 
 🌍 Supported Platforms:
-Facebook/Instagram Ads
-Google Ads
-TikTok Ads
-Display Networks
+Facebook/Instagram Ads, Google Ads, TikTok Ads, Display Networks
