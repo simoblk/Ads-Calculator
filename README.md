@@ -49,10 +49,9 @@ Follow the interactive prompts:
 
 
 📂 Generated Files:
-File	                     Description
-ads_performance.png	  (Performance trend graph)
-ads_report.xlsx	      (Detailed metrics in Excel)
-ads_report.pdf	      (Professional campaign report)
+ads_performance.png
+ads_report.xlsx
+ads_report.pdf
 
 
 🌍 Supported Platforms:
